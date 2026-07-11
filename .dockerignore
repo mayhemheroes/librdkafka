@@ -1,0 +1,6 @@
+# Ignore patterns for Docker build context (keep .git for grader)
+*.o
+*.so
+*.dylib
+out/
+build/
